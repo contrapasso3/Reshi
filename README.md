@@ -1,0 +1,2 @@
+# Reshi
+Obsidian Theme
