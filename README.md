@@ -18,6 +18,31 @@ Inspired by the protagonist of *The Name of the Wind*, by Patrick Rothfuss, **Re
 
 <img src="https://github.com/contrapasso3/Reshi/assets/160438817/7cb38153-2d42-4fd0-8b20-fcfeb302c12a" width="300">
 
+To create, type these:
+- [/] in progress
+- [-] canceled
+- [<] scheduled
+- [>] rescheduled
+
+- [!] important
+- [?] question
+- [i] information
+- [S] amount
+
+- [p] pro
+- [c] con
+
+- [n] note
+- [I] idea
+- [b] bookmark
+- [*] star
+- [k] key
+- [t] time
+- [l] location
+- ["] quote
+
+---
+
 - Two **custom textboxes** per mode:
 
 <img src="https://github.com/contrapasso3/Reshi/assets/160438817/55380174-c354-405d-b490-cd13e65b10ea" width="600">
