@@ -18,7 +18,9 @@ Inspired by the protagonist of *The Name of the Wind*, by Patrick Rothfuss, **Re
 
 <img src="https://github.com/contrapasso3/Reshi/assets/160438817/7cb38153-2d42-4fd0-8b20-fcfeb302c12a" width="300">
 
-To create, type these:
+To create, type these (don't use code block):
+
+```
 - [/] in progress
 - [-] canceled
 - [<] scheduled
@@ -40,8 +42,7 @@ To create, type these:
 - [t] time
 - [l] location
 - ["] quote
-
----
+```
 
 - Two **custom textboxes** per mode:
 
