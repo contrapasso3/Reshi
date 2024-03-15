@@ -2391,6 +2391,7 @@ i#quote {
 
 .workspace-leaf-resize-handle {
 	top: 39px !important;
+	height: var(--left-size-handle);
 }
 
 /* SPLIT WINDOWS */
