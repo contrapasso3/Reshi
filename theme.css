@@ -2389,9 +2389,12 @@ i#quote {
 
 /* VERTICAL DIVIDERS */
 
+.is-hidden-frameless {
+	--divider-vertical-height: 100% - var(--header-height);	
+}
+
 .workspace-leaf-resize-handle {
-	top: 39px !important;
-	height: var(--left-size-handle);
+	top: var(--header-height) !important;
 }
 
 /* SPLIT WINDOWS */
